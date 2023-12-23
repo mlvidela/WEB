@@ -37,12 +37,12 @@ button.navbar-toggler:active {
 @media (max-width: 495px) {
 
 h1 {
-    margin-left: 25%;
-    font-size: 34px !important;
+    margin-left: 20%;
+    font-size: 20px !important;
 }
 
 main {
-    margin: 1%;
+    margin: 0;
 }
 
 }
@@ -75,12 +75,12 @@ main {
 @media (min-width: 1020px) {
 
 h1 {
-    margin-left: 35%;
+    margin-left: 30%;
     font-size: 60px !important;
 }
             
 main {
-    margin: 10% 32%;
+    margin: 10% 33%;
 }
 
 .navbar-dark {
