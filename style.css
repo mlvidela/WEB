@@ -1,0 +1,83 @@
+h1 {
+    text-align: center;
+    font-family: 'Whisper', cursive;
+    color: rgb(190, 175, 163) !important;
+}
+
+.navbar-dark {
+    font-family: roboto;
+    font-size: 18px;
+    
+    height: 15%;
+
+    border-style: dashed;
+    border-color: rgb(208, 201, 192);
+}
+
+.bi {
+    background-color: black;
+    color: rgb(190, 175, 163);
+    font-size: 22px;
+}
+
+button.navbar-toggler:focus,
+button.navbar-toggler:active {
+    box-shadow: none !important;
+}
+
+.dropdown-menu {
+    background-color: rgb(208, 201, 192) !important;
+}
+
+
+
+
+/* Queries */
+
+@media (max-width: 450px) {
+
+h1 {
+    margin-left: 25%;
+}
+
+main {
+    margin: 1%;
+}
+
+}
+
+@media (min-width: 500px) {
+
+h1 {
+    margin-left: 35%;
+}
+    
+main {
+    margin: 5% 20%;
+}
+    
+}
+
+@media (min-width: 850px) {
+
+h1 {
+    margin-left: 40%;
+}
+        
+main {
+    margin: 25% 30%;
+}
+        
+}
+
+@media (min-width: 1050px) {
+
+h1 {
+    margin-left: 40%;
+}
+            
+main {
+        margin: 5% 33%;
+}
+            
+}
