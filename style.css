@@ -37,8 +37,8 @@ button.navbar-toggler:active {
 @media (max-width: 495px) {
 
 h1 {
-    margin-left: 20%;
-    font-size: 24px !important;
+    margin-left: 15%;
+    font-size: 18px !important;
 }
 
 main {
