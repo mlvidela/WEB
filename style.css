@@ -38,11 +38,11 @@ button.navbar-toggler:active {
 
 h1 {
     margin-left: 20%;
-    font-size: 20px !important;
+    font-size: 24px !important;
 }
 
 main {
-    margin: -2;
+    margin: 0;
 }
 
 }
