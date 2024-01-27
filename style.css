@@ -1,5 +1,5 @@
 h1 {
-    font-size: 400% !important;
+    font-size: 350% !important;
     font-family: 'Whisper', cursive;
     color: rgb(190, 175, 163) !important;
 
@@ -17,8 +17,7 @@ h1 {
 }
 
 .bi {
-    background-color: black;
-    color: rgb(190, 175, 163);
+    color: rgb(208, 201, 192);
     font-size: 22px;
 }
 
@@ -47,6 +46,7 @@ h1 {
 }
 
 main {
+    max-width: 90%;
     margin-left: 0%;
 }
 
@@ -55,7 +55,7 @@ main {
 @media (min-width: 550px) {
 
 h1 {
-    font-size: 50px !important;
+    font-size: 48px !important;
 }
     
 main {
@@ -67,12 +67,12 @@ main {
 @media (min-width: 1000px) {
 
 h1 {
-    font-size: 55px !important;
-    margin-left: 36%;
+    font-size: 50px !important;
+    margin-left: 37%;
 }
         
 main {
-    margin-left: 32%;
+    margin-left: 33%;
 }
         
 }
